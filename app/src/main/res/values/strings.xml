@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen1T</string>
+    <string name="input_age">Introduzca edad</string>
+    <string name="input_name">Introduzca nombre</string>
+    <string name="input_surname">Introduzca apellido</string>
+    <string name="input_birthplace">Introduzca Lugar de Nacimiento</string>
+    <string name="welcome">Bienvenido al examen de la primera Evaluación</string>
+</resources>
